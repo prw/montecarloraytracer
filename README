@@ -1,0 +1,9 @@
+This is a simple c++ raytracer, ideally using montecarlo raytracing to compare to radiosity rendering methods.
+
+Written on linux with g++, should work on other platforms.
+
+Adjust CFLAGS and CXX according to your platform and needs, then just make.
+
+trace.cpp contains the main() function and the uses the other classes.
+
+
